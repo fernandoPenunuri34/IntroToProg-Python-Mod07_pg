@@ -15,8 +15,7 @@ In this practice, we implemented 'Try-Catch' to handle exceptions. To understand
 
 
 
-
-
+![image](https://user-images.githubusercontent.com/1307961/222068755-9796f316-943a-460b-8e66-5ec62eff02fd.png)
 
 
 
@@ -29,7 +28,7 @@ In this practice, we implemented 'Try-Catch' to handle exceptions. To understand
 
 
 
-
+![image](https://user-images.githubusercontent.com/1307961/222068785-3cd8a1b0-f5cd-427f-9f64-54843841a351.png)
 
 
 
@@ -49,6 +48,9 @@ The menu is being handle by a dictionary called ‘operations’ that maps strin
 The key is a string that represents the user’s choice of operation, while the value is the corresponding function that will be executed when the user selects that option (Figure 7.3).
 
 
+
+![image](https://user-images.githubusercontent.com/1307961/222068861-ea4ef812-32a1-43d6-a3d4-2d6e013031cc.png)
+
 *Figure 7.3, Dictionary to handle the menu*
 
 
@@ -63,6 +65,7 @@ The other methods in the Calculator class also use self.num1 to perform calculat
 
 
 
+![image](https://user-images.githubusercontent.com/1307961/222068885-8471415f-17e9-42b8-83bc-1ba519961996.png)
 
 
 
@@ -92,6 +95,7 @@ Pickle.loads returns the reconstituted object hierarchy of the pickled represent
 
 
 
+![image](https://user-images.githubusercontent.com/1307961/222068927-779f4cce-a79b-4a09-b400-415498c2f0a9.png)
 
 
 
@@ -117,6 +121,7 @@ Option number 1 will do a conversion to feet from meters (Figure 7.6).
 
 
 
+![image](https://user-images.githubusercontent.com/1307961/222068976-17725c69-a395-4e15-9a4e-ae205da362c9.png)
 
 
 
@@ -156,6 +161,7 @@ Option number 3 will do a conversion to lbs from Kg (Figure 7.8).
 
 
 
+![image](https://user-images.githubusercontent.com/1307961/222069050-69a77ca0-8f0f-425b-b454-c05cc1775a8b.png)
 
 
 
@@ -177,6 +183,7 @@ Option number 4 will do a conversion to Kg from lbs (Figure 7.9)
 
 
 
+![image](https://user-images.githubusercontent.com/1307961/222069092-b296b8ce-9337-4a36-80f5-b8d2fec19708.png)
 
 
 
